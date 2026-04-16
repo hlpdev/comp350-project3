@@ -4,4 +4,4 @@ set -e
 
 gcc filesystem.c -o filesystem
 
-printf("built to to ./filesystem\n");
+echo "built to ./filesystem"
